@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1026142335848",
+    "project_id": "bookrading",
+    "storage_bucket": "bookrading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026142335848:android:5c97db8db0b9e0d7bb5cdd",
+        "android_client_info": {
+          "package_name": "com.example.bookrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026142335848-bdb48dg41rj1pkd34ekcbd53c6t0kpgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlRXEYj2w1HWiE9Y05wWeo271cf8DzLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026142335848-bdb48dg41rj1pkd34ekcbd53c6t0kpgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026142335848:android:ee95d96fe09553cabb5cdd",
+        "android_client_info": {
+          "package_name": "com.example.bookrading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026142335848-bdb48dg41rj1pkd34ekcbd53c6t0kpgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOlRXEYj2w1HWiE9Y05wWeo271cf8DzLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026142335848-bdb48dg41rj1pkd34ekcbd53c6t0kpgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
